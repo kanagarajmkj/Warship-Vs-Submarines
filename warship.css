@@ -1,0 +1,47 @@
+.warship-container	{
+	border: 1px solid red;
+	min-height: 800px;
+	position: relative;
+}
+.submarine{
+	position:absolute;
+	background: blue;
+}
+.ship{
+	position:absolute;
+	background: green;
+}
+.submarine-missile{
+	position:absolute;
+	background:red;
+}
+.ship-missile{
+	position:absolute;
+	background:yellow;
+}
+.score-label{
+	position:absolute;
+	color: green;
+}
+.score-value{
+	position:absolute;
+	color: red;
+}
+.ship-life-label{
+	position:absolute;
+	color: green;
+}
+.ship-life-value{
+	position:absolute;
+	color: red;
+}
+.game-level-label{
+	position:absolute;
+	color: yellow;
+}
+.game-level-value{
+	position:absolute;
+	color: red;
+}
+
+
